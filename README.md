@@ -1,2 +1,4 @@
-# open-ended
-Open source client-sided endpoint monitoring SPA powered by React.
+# Yet Another Todo App
+
+React + Redux is the bomb
+(also 1997 wants its slang back)
